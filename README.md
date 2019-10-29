@@ -5,7 +5,4 @@ Data set of 101 food categories, with 101'000 images. For each class, 250 manual
 Achieved an accuracy of >85% with this dataset using Fastai/Pytorch
 
 Citation:
-title = {Food-101 -- Mining Discriminative Components with Random Forests},
-  author = {Bossard, Lukas and Guillaumin, Matthieu and Van Gool, Luc},
-  booktitle = {European Conference on Computer Vision},
-  year = {2014}
+Food-101 -- Mining Discriminative Components with Random Forests by Bossard, Lukas and Guillaumin, Matthieu and Van Gool from "European Conference on Computer Vision" in 2014
